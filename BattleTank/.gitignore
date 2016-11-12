@@ -1,3 +1,6 @@
+*.VC.db
+*.VC.opendb
+
 # Compiled Object files
 *.slo
 *.lo
